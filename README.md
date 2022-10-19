@@ -21,5 +21,5 @@ Software code created by U.S. Government employees is not subject to copyright i
 <hr>
 
 <p align="center" vertical-align="center">
-<img src="./images/noaa-fisheries-rgb-2line-horizontal-small.png" alt="NOAA Fisheries Logo" height="75" style="padding-right: 10px"><span style=""><a href="https://www.commerce.gov/">U.S. Department of Commerce</a> &vert; <a href="https://www.noaa.gov">National Oceanographic and Atmospheric Administration</a> &vert; <a href="https://www.fisheries.noaa.gov/">NOAA Fisheries</a></span>
+<a href="https://www.commerce.gov/">U.S. Department of Commerce</a> &vert; <a href="https://www.noaa.gov">National Oceanographic and Atmospheric Administration</a> &vert; <a href="https://www.fisheries.noaa.gov/">NOAA Fisheries</a>
 </p>
