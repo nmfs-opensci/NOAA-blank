@@ -15,7 +15,7 @@ Fusce finibus auctor metus non cursus. Nullam porta eu mi accumsan tempus. Mauri
 
 # Disclaimers
 
-The one you include will depend on what is in your repository and whether you have links outside of the federal government. If you are sandboxing or learning, then you might not have any disclaimer. Although it is good practice to have one if the repository is clearly associated with NOAA, e.g. it is in a GitHub organization with some branding (logos, footers) that indicate that. 
+The one you include will depend on what is in your repository and whether you have links outside of the federal government. If you are sandboxing or learning, then you might not have any disclaimer. Although it is good practice to have one if the repository is clearly associated with NOAA, e.g. it is in a GitHub organization with some branding (logos, footers) that indicate that. You will definitely want some type of disclaimer if the repository can be interpreted as a scientific product (software package, data package, online documentation, report or manuscript, etc). You might start with a generic simple disclaimer (the last one listed) and modify to a different one later.
 
 ## Disclaimer
 
@@ -33,7 +33,7 @@ This repository is a scientific product and is not official communication of the
 
 If you are releasing a code package (packaged or scripts), something that is a "communication" (a manuscript), or something that is intended for re-use, then you will want a license to indicate that the work is in the public domain. Not all repositories have a license since not all repositories are "products". If you sandboxing (or learning) or it is not something that someone would conceiveably reuse, then a license might not make sense. 
 
-For things that you would put a license on, here are typical license text notes for the Readme.  In addition, you will have a LICENSE file in the repo. CC0 is common for a repo that is not a software package and GPL-3 is common for software packages. 
+For things that you would put a license on, here are typical license addendums for the Readme.  In addition, you will have a LICENSE file in the repo. CC0 is common for a repo that is not a software package and GPL-3 is common for software packages. 
 
 ## License addendum for code
 
@@ -47,7 +47,7 @@ This content was created by U.S. Government employees as part of their official 
 
 # Footer
 
-Use of a footer with links to NOAA or with NOAA logos will indicate that the product is intended to be interpreted as a product from NOAA. You do not use NOAA logos and footers for all repositories. You would use it for repositories that are with a NOAA branded GitHub organization or for something that intended to be viewed as a NOAA product. These types of repositories and products undergo some type of internal review, which is going to be specific to your situation and office.
+Use of a footer with links to NOAA or with NOAA logos will indicate that the product is intended to be interpreted as a product from NOAA. You do not use NOAA logos and footers for all repositories. You would use it for repositories that are with a NOAA branded GitHub organization (like a center, office or program GH organization) or for something that intended to be viewed as a NOAA product. These types of repositories and products undergo some type of internal review, which is going to be specific to your situation and office.
 
 <p align="center" vertical-align="center">
 <a href="https://www.commerce.gov/">U.S. Department of Commerce</a> &vert; <a href="https://www.noaa.gov">National Oceanographic and Atmospheric Administration</a> &vert; <a href="https://www.fisheries.noaa.gov/">NOAA Fisheries</a>
