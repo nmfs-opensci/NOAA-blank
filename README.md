@@ -25,7 +25,7 @@ This repository is a scientific product and is not official communication of the
 
 Links to websites outside the U.S. federal government or the use of trade, firm, or corporation names within the Department of Commerce websites are solely for the convenience of the user. Such use does not constitute an official endorsement or approval by the U.S. Department of Commerce of any private sector website, product or service.
 
-## Disclaimer for a repo on your personal GitHub account
+## Example disclaimer for a repo on your personal NOAA GitHub account (with your NOAA email)
 
 This repository is a scientific product and is not official communication of the National Oceanic and Atmospheric Administration, or the United States Department of Commerce. The scientific results and conclusions, as well as any views or opinions expressed herein, are those of the author(s) and do not necessarily reflect the views of NOAA or the Department of Commerce.
 
